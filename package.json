@@ -1,0 +1,14 @@
+{
+  "devDependencies": {
+    "@types/crypto-js": "^4.2.2",
+    "@types/merkle": "^0.6.4",
+    "@types/node": "^20.12.12",
+    "ts-node": "^10.9.2",
+    "tsconfig-paths": "^4.2.0",
+    "typescript": "^5.4.5"
+  },
+  "dependencies": {
+    "crypto-js": "^4.2.0",
+    "merkle": "^0.6.0"
+  }
+}
